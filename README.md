@@ -1,27 +1,19 @@
-# NaukriCloneAngular
+# Railway_Booking_Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# # Feartures
+- Implemented a train ticket booking application using Angular, capable of handling up to 1,000 bookings daily.
+- Leveraged Angular 18 to enhance performance, reducing page load time by 45%.
+- Embedded APIs for real-time train schedules, ticket availability, and booking confirmation, improving users
+- satisfaction by 30%.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## preview
+![Screenshot 2024-09-19 095020](https://github.com/user-attachments/assets/d89a95cc-824b-49c0-8afc-0ef44705eec2)
+![Screenshot 2024-09-19 095108](https://github.com/user-attachments/assets/4ff335af-9de5-4f4c-9394-72615300d62a)
+![Screenshot 2024-09-19 095137](https://github.com/user-attachments/assets/1c746c98-fb05-4942-bd68-5274359aa7a6)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
